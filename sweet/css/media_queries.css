@@ -1,0 +1,698 @@
+@media (max-width: 1920px) {
+    .navbar-first {
+        margin-left: 30%;
+    }
+    .navbar-second {
+        margin-left: 58%;
+    }
+    .margin-bottom-card-block {
+        margin-left: -150px;
+        padding-left: 199px;
+    }
+    .our-services-card-title {
+        left: 10%;
+        width: 100%;
+    }
+    .our-services-card-sub-title {
+        left: 231px;
+        width: 48%;
+    }
+    .delivery-card-title {
+        left: 2%;
+        width: 100%;
+    }
+    .delivery-card-sub-title {
+        left: 2%;
+        width: 100%;
+    }
+    .mr-pl-product {
+        margin-right: -93px;
+        padding-left: 238px;
+    }
+    .mt-pb-delivery {
+        margin-top: 94px;
+        padding-bottom: 115px;
+    }
+    .margin-bottom-delivery {
+        margin-left: -64px;
+        padding-left: 157px;
+    }
+    .mr-contact-form {
+        margin-left: 306px;
+    }
+}
+@media (max-width: 1880px) {
+    .delivery-card-title {
+        left: 4%;
+    }
+    .delivery-card-sub-title {
+        left: 4%;
+    }
+    .navbar-second {
+        margin-left: 50%;
+    }
+    .navbar-first {
+        margin-left: 22%;
+    }
+
+}
+@media (max-width: 1860px) {
+    .mr-pl-product {
+        margin-right: -61px;
+        padding-left: 186px;
+    }
+}
+@media (max-width: 1810px) {
+    .our-services-card-sub-title {
+        left: 12%;
+        width: 100%;
+    }
+    .mr-contact-form {
+        margin-left: 33%;
+    }
+}
+@media (max-width: 1880px) {
+    .margin-bottom-card-block {
+        margin-left: -79px;
+        padding-left: 155px;
+    }
+    .our-services-card-title {
+        left: 6%;
+    }
+    .our-services-card-sub-title {
+        left: 6%;
+    }
+    .delivery-card-title {
+        left: 7%;
+    }
+    .delivery-card-sub-title {
+        left: 7%;
+    }
+}
+@media (max-width: 1681px) {
+    .our-services-card-title {
+    left: 12%;
+    }
+    .our-services-card-sub-title {
+        left: 12%;
+    }
+    .delivery-card-title {
+        left: 12%;
+    }
+    .delivery-card-sub-title {
+        left: 12%;
+    }
+}
+@media (max-width: 1642px) {
+    .our-services-card-title {
+    left: 14%;
+    }
+    .our-services-card-sub-title {
+        left: 14%;
+    }
+    .delivery-card-title {
+        left: 14%;
+    }
+    .delivery-card-sub-title {
+        left: 14%;
+    }
+    .navbar-first {
+        margin-left: 12%;
+    }
+    .navbar-second {
+        margin-left: 42%;
+    }
+    .margin-bottom-delivery {
+        margin-left: -101px;
+        padding-left: 141px;
+    }
+    .mt-pb-delivery {
+        margin-top: 70px;
+    }
+}
+@media (max-width: 1455px) {
+    .navbar-first {
+        margin-left: 0;
+    }
+    .navbar-second {
+        margin-left: 32%;
+    }
+    .margin-bottom-card-block {
+        margin-left: -79px;
+        padding-left: 88px;
+    }
+    .our-services-card-title {
+        left: 7%;
+    }
+    .our-services-card-sub-title {
+        left: 7%;
+    }
+    .delivery-card-title {
+        left: 7%;
+    }
+    .delivery-card-sub-title {
+        left: 7%;
+    }
+    .mr-pl-product {
+        margin-right: -57px;
+        padding-left: 127px;
+    }
+    .margin-bottom-delivery {
+        margin-left: -66px;
+        padding-left: 87px;
+    }
+    .mr-contact-form {
+        margin-left: 29%;
+    }
+}
+@media (max-width: 1455px) {
+    .navbar-first {
+        margin-left: -24px;
+    }
+    .margin-bottom-card-block {
+        margin-left: -49px;
+        padding-left: 72px;
+    }
+    .mr-pl-product {
+        margin-right: -36px;
+        padding-left: 92px;
+    }
+    .bg-delivery {
+        top: 18px;
+    }
+    .margin-bottom-delivery {
+        margin-left: -42px;
+        padding-left: 70px;
+    }
+    .mr-contact-form {
+        margin-left: 28%;
+    }
+}
+@media (max-width: 1260px) {
+    .nav-color-text {
+        font-size: 12px;
+    }
+    .nav-color-text-1 {
+        font-size: 11px;
+    }
+    .navbar-second {
+        margin-left: 28%;
+    }
+    .margin-bottom-card-block {
+        margin-left: 0;
+        padding-left: 0;
+    }
+    .our-services-card-title {
+        left: 0;
+    }
+    .our-services-card-sub-title {
+        left: 0;
+    }
+    .delivery-card-title {
+        left: 0;
+    }
+    .delivery-card-sub-title {
+        left: 0;
+    }
+    .mr-pl-product {
+        margin-right: 0;
+        padding-left: 0;
+    }
+    .margin-bottom-delivery {
+        margin-left: 0;
+        padding-left: 0;
+    }
+    .mr-contact-form {
+        margin-left: 25%;
+    }
+    .contact-span-1 {
+        font-size: 11px;
+    }
+    .contact-span-2 {
+        font-size: 11px;
+    }
+}
+@media (max-width: 1130px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 0;
+    }
+    .footer-text {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .footer-text-2 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .footer-text-3 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .nav-basket-style {
+        font-size: 12px;
+    }
+    .margin-bottom-card-block {
+        margin-left: 56px;
+    }
+    .mr-pl-product {
+        margin-right: 39px;
+        padding-left: 110px;
+    }
+    .mt-pb-delivery {
+        margin-top: 55px;
+    }
+    .margin-bottom-delivery {
+        margin-left: 56px;
+    }
+    .mr-contact-form {
+        margin-left: 22%;
+    }
+    .stock-padding {
+        padding-left: 38%;
+    }
+    .navbar-first {
+        margin-left: -64px;
+    }
+}
+@media (max-width: 1026px) {
+    .navbar-first {
+        margin-left: -64px;
+    }
+    .navbar-second {
+        margin-left: 23%;
+    }
+    .nav-color-text {
+        font-size: 10px;
+    }
+    .navbar-first {
+        margin-left: 0;
+    }
+}
+@media (max-width: 991px) {
+    .nav-color-text {
+        margin-top: 0;
+    }
+    .nav-color-text-1 {
+        margin-bottom: 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: .5rem;
+    }
+    .mt-nav-icon {
+        display: none;
+    }
+    .logo-img {
+        margin-left: 0;
+    }
+    .navbar-first {
+        position: inherit;
+        margin-top: 0;
+    }
+    .navbar-second {
+        margin-left: 58%;
+        margin-top: -145px;
+    }
+
+    .margin-bottom-card-block {
+        margin-left: -68px;
+        padding-left: 88px;
+    }
+    .our-services-card-title {
+        left: 6%;
+    }
+    .our-services-card-sub-title {
+        left: 6%;
+    }
+    .delivery-card-title {
+        left: 11%;
+    }
+    .delivery-card-sub-title {
+        left: 11%;
+    }
+    .mr-pl-product {
+        margin-right: -9%;
+        padding-left: 15%;
+    }
+    .mt-pb-delivery {
+        margin-top: 45px;
+    }
+    .margin-bottom-delivery {
+        margin-left: -10%;
+        padding-left: 13%;
+    }
+    .mr-contact-form {
+        margin-left: 9%;
+    }
+    .contact-sub-title {
+        font-size: 9px;
+        line-height: 13px;
+    }
+    .contact-span-mt {
+        margin-top: -7px;
+    }
+    .contact-span-1 {
+        font-size: 7px;
+    }
+    .contact-span-2 {
+        font-size: 7px;
+        line-height: 3px;
+    }
+    .contact-span-3 {
+        font-size: 7px;
+    }
+    .footer-bg {
+        height: 115%;
+    }
+    .stock-padding {
+        padding-left: 26%;
+    }
+    .contact-span-mt-1 {
+        margin-top: -2px;
+    }
+    .bg-flower-5 {
+        background-position: 443px -7px;
+    }
+    .footer-bg {
+        height: 124px;
+    }
+}
+@media (max-width: 966px) {
+    .mt-pb-delivery {
+        margin-top: 48px;
+        padding-bottom: 15px;
+    }
+    .title-delivery {
+        font-size: 22px;
+    }
+    .sub-title-delivery {
+        font-size: 15px;
+    }
+    .margin-bottom-card-block {
+        margin-left: -8px;
+        padding-left: 60px;
+    }
+    .margin-bottom-delivery {
+        margin-left: -6%;
+        padding-left: 12%;
+    }
+    .our-services-card-title {
+        left: 1%;
+    }
+    .our-services-card-sub-title {
+        left: 1%;
+    }
+    .margin-bottom-delivery {
+        margin-left: 0;
+        padding-left: 6%;
+    }
+    .delivery-card-title {
+        left: 1%;
+    }
+    .delivery-card-sub-title {
+        left: 1%;
+    }
+}
+@media (max-width: 851px) {
+    .margin-bottom-card-block {
+        margin-left: -2px;
+        padding-left: 10px;
+    }
+    .title-delivery {
+        font-size: 17px;
+    }
+    .sub-title-delivery {
+        font-size: 13px;
+    }
+    .bg-delivery {
+        top: 37px;
+    }
+    .margin-bottom-delivery {
+        margin-left: 0;
+        padding-left: 2%;
+    }
+    iframe {
+        width: 327px;
+        height: 221px;
+    }
+    .mr-contact-form {
+        margin-left: 2%;
+    }
+}
+@media (max-width: 767px) {
+    .bg-stock {
+        -webkit-background-size: cover;
+        background-size: cover;
+        background-position: center right;
+        height: 438px;
+    }
+    .stock-padding {
+        text-align: center;
+        text-align: -webkit-center;
+        padding-left: 0;
+    }
+    .margin-bottom-card-block {
+        margin-left: 3px;
+        padding-left: 0;
+    }
+    .our-services-card-title {
+        left: 7%;
+    }
+    .our-services-card-sub-title {
+        left: 7%;
+    }
+    .delivery-card-title {
+        left: 7%;
+    }
+    .delivery-card-sub-title {
+        left: 7%;
+    }
+    .mr-pl-product {
+        margin-right: 0;
+        padding-left: 28px;
+    }
+    .margin-bottom-delivery {
+        margin-left: 1px;
+        padding-left: 0;
+    }
+    .title-delivery {
+        font-size: 15px;
+    }
+    .sub-title-delivery {
+        font-size: 11px;
+    }
+    .bg-delivery {
+        top: 30px;
+        height: 110px;
+    }
+    .mr-contact-form {
+        margin-left: -9%;
+    }
+    .bg-form {
+        width: 220px;
+    }
+    .btn-contact-us {
+        width: 152px;
+    }
+    .contact-span-mt {
+        display: none;
+    }
+    .footer-text {
+        font-size: 9px;
+        line-height: 27px;
+    }
+    .footer-text-2 {
+        font-size: 9px;
+        line-height: 27px;
+    }
+    .footer-text-3 {
+        font-size: 9px;
+        line-height: 27px;
+    }
+    .footer-bg {
+        height: 181px;
+    }
+    .delivery-card-title {
+        font-size: 16px;
+    }
+    .delivery-card-sub-title {
+        font-size: 14px;
+    }
+    .stock-padding {
+        padding-left: 4%;
+    }
+    .stock-h2 {
+        font-size: 20px;
+    }
+    .stock-sub-title {
+        font-size: 15px;
+    }
+
+}
+@media (max-width: 567px) {
+    .our-services-card-title {
+        left: -13%;
+    }
+    .our-services-card-sub-title {
+        left: -13%;
+    }
+    .delivery-card-title {
+        left: -13%;
+    }
+    .delivery-card-sub-title {
+        left: -13%;
+    }
+    .margin-bottom-card-block {
+        margin-left: 65px;
+    }
+    .mr-pl-product {
+        padding-left: 151px;
+    }
+    .margin-bottom-delivery {
+        margin-left: 107px;
+    }
+    .margin-bottom-contact-block {
+        margin-bottom: 0;
+        margin-left: 0;
+        padding-left: 0;
+    }
+    iframe {
+        width: 315px;
+        height: 127px;
+    }
+    .mr-contact-form {
+        margin-left: 29%;
+    }
+    .footer-text-2 {
+        text-align: -webkit-center;
+        text-align: center;
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .footer-text-3 {
+        text-align: -webkit-center;
+        text-align: center;
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .footer-text {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .footer-bg {
+        height: 400px;
+    }
+    .bg-delivery {
+        height: 139px;
+    }
+}
+@media (max-width: 516px) {
+    .stock-button {
+        width: 185px;
+    }
+    .mr-pl-product {
+        padding-left: 94px;
+    }
+    .title-delivery {
+        font-size: 13px;
+    }
+    .bg-delivery {
+        top: 10px;
+        height: 133px;
+    }
+    .margin-bottom-delivery {
+        margin-left: 62px;
+    }
+    .mt-pb-delivery {
+        display: none;
+    }
+}
+@media (max-width: 487px) {
+    .our-services-card-title {
+        left: 0;
+    }
+    .our-services-card-sub-title {
+        left: 0;
+    }
+    .delivery-card-title {
+        left: 0;
+    }
+    .delivery-card-sub-title {
+        left: 0;
+    }
+    .mr-pl-product {
+        padding-left: 59px;
+    }
+
+}
+@media (max-width: 421px) {
+    .margin-bottom-card-block {
+        margin-left: 17px;
+    }
+    .mr-pl-product {
+        padding-left: 33px;
+    }
+    .margin-bottom-delivery {
+        margin-left: 25px;
+    }
+    .mr-contact-form {
+        margin-left: 21%;
+    }
+}
+@media (max-width: 372px) {
+    .stock-h2 {
+        font-size: 16px;
+    }
+    .margin-bottom-card-block {
+        margin-left: 3px;
+    }
+    .margin-bottom-delivery {
+        margin-left: 7px;
+    }
+    .btn-delivery {
+        width: 197px;
+    }
+    .mr-contact-form {
+        margin-left: 18%;
+    }
+    .logo-img {
+        margin-left: 0;
+    }
+    .delivery-img-1 {
+        width: 320px;
+    }
+    .delivery-img-2 {
+        width: 320px;
+    }
+    .delivery-img-3 {
+        width: 320px;
+    }
+    .bg-delivery-img-1 {
+        width: 320px;
+    }
+    .cadrd-img-2-bg {
+        width: 320px;
+    }
+    .cadrd-img-1 {
+        width: 320px;
+    }
+    .cadrd-img-2 {
+        width: 320px;
+    }
+    .cadrd-img-3 {
+        width: 320px;
+    }
+    .cadrd-img-4 {
+        width: 320px;
+    }
+    .cadrd-img-5 {
+        width: 320px;
+    }
+    .cadrd-img-6 {
+        width: 320px;
+    }
+}
+@media (max-width: 320px) {
+    .bg-form {
+        width: 194px;
+    }
+}
