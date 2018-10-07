@@ -1,0 +1,292 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.description {
+    border-right: 1px solid #EBEBEB;
+    border-left: 1px solid #EBEBEB;
+    width: 249px;
+    height: 100%;
+    padding: 0 16px 5px;
+}
+
+.star_icon {
+    font-size: 11px;
+    color: #EFF2F7;
+}
+
+svg.svg-video {
+    margin-top: 16px;
+    margin-bottom: 9px;
+}
+
+svg.svg-overview {
+    margin-left: 18px;
+    margin-bottom: 4px;
+}
+
+img.preview-img {
+    margin-right: 16px;
+    width: 217px;
+    height: 217px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: -12px;
+}
+
+ul li {
+    display: inline;
+    padding-right: 18px;
+    padding-top: 0;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+ul li:nth-child(2n) {
+    margin-left: 10px;
+}
+
+.active-color {
+    border: 2px solid #7EB105;
+    border-radius: 4px;
+}
+
+ul li a {
+    color: #7eb105;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    outline: none;
+    text-decoration: none;
+    transition: all .3s ease;
+}
+
+.star {
+    margin-top: -9px;
+}
+
+.icon_item_text {
+    font-family: Arial;
+    line-height: normal;
+    font-size: 12px;
+    color: #999999;
+}
+
+.filled-star {
+    color: rgb(246, 115, 28);
+}
+
+.exclude {
+    margin-left: 21px;
+    margin-bottom: -2px;
+}
+
+.reviews {
+    line-height: normal;
+    font-size: 12px;
+    text-decoration-line: underline;
+    color: #7EB105;
+    cursor: pointer;
+}
+
+.product-code {
+    margin-top: -7px;
+}
+
+.product-code_code {
+    line-height: normal;
+    font-size: 10px;
+    color: #999999;
+}
+
+.product-code_number {
+    line-height: normal;
+    font-size: 10px;
+    color: #000;
+}
+
+.in-stock {
+    color: #F6731C;
+}
+
+.status-in-stock {
+    display: none;
+    color: #7EB105;
+}
+
+.status-quantity-is-limited {
+    display: block;
+    color: #F6731C;
+}
+
+span.in-stock-circle {
+    font-size: 8px;
+}
+
+.in-stock-text {
+    line-height: normal;
+    font-size: 12px;
+    margin-left: 8px;
+}
+
+.title-name-text {
+    line-height: normal;
+    font-size: 14px;
+    color: #212121;
+    margin-bottom: 10px;
+    max-width: calc(30em * 0.5);
+}
+
+.memory {
+    display: none;
+}
+
+.memory-checker {
+    line-height: normal;
+    font-size: 14px;
+    color: #212121;
+    padding: 0;
+    border: none;
+}
+
+.active-memory {
+    line-height: normal;
+    font-size: 14px;
+    color: #7EB105;
+    border-bottom: 1px dashed #7EB105;
+}
+
+.citrus-exchange {
+    line-height: normal;
+    font-size: 10px;
+    color: #F6731C;
+}
+
+.old-price {
+    line-height: normal;
+    font-size: 14px;
+    text-decoration-line: line-through;
+    color: #999999;
+}
+
+.new-price {
+    color: #f6690e;
+    font: 700 18px/18px Ubuntu, sans-serif;
+}
+
+.saving-text {
+    line-height: normal;
+    font-size: 12px;
+    color: #7EB105;
+}
+
+.footer-icons {
+    align-items: center;
+    border-top: 1px solid #f6f6f6;
+    display: flex;
+    font-size: 0;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 8px 0 5px;
+}
+
+.fade-block {
+    margin-top: 24px;
+}
+
+.hover {
+    display: flex;
+}
+
+.hover-right-stock {
+    font-family: Ubuntu, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 12px;
+    color: #212121;
+    margin-bottom: 0;
+}
+
+.hover-right-first-purchase {
+    line-height: normal;
+    font-size: 11px;
+    color: #F6731C;
+}
+
+.hover-right {
+    margin-left: 9px;
+    margin-top: 9px;
+}
+
+.fast-performance {
+    line-height: normal;
+    font-size: 14px;
+    color: #212121;
+    font-weight: 700;
+}
+
+ul li.fast-performance-li:nth-child(2n) {
+    margin-left: 0;
+}
+
+ul li.fast-performance-li {
+    display: block;
+    padding-right: 0;
+    border: none;
+    border-radius: 0;
+}
+
+ul {
+    list-style-type: circle !important;
+    padding-left: 0;
+    margin-top: 0;
+}
+
+li.fast-performance-li {
+    line-height: 19px;
+    font-size: 14px;
+    color: #999999;
+}
+
+i.fas.fa-circle.fa-circle-change {
+    font-size: 7px;
+    color: #C4C4C4;
+    margin-right: 10px;
+    margin-left: 6px;
+}
+
+.fade-block {
+    display: none;
+}
+
+.description:hover {
+    border: 1px solid #7EB105;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+}
+
+.description:hover .fade-block {
+    display: block;
+}
+
+.description:hover .citrus-exchange {
+    display: none;
+}
+
+.description:hover .memory {
+    display: block;
+}
+
+.description:hover .status-quantity-is-limited {
+    display: none;
+}
+
+.description:hover .status-in-stock {
+    display: block;
+}
